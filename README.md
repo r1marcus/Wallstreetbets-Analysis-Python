@@ -14,6 +14,6 @@ How does it work?
 
 # Do you want to help with new features? Great fork the repo and push merge requests!
 
-
+# Do you have Feature ideas for the Homepage? Create an issue!
 
 
