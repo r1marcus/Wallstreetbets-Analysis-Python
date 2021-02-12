@@ -10,7 +10,7 @@ How does it work?
 
 
 # Do you want this as an Homepage or Newsletter? Help us to cover the costs!
-[Link text](https://paypal.me/pools/c/8wRmexmIMz)
+[Help!](https://paypal.me/pools/c/8wRmexmIMz)
 
 # Do you want to help with new features? Great fork the repo and push merge requests!
 
