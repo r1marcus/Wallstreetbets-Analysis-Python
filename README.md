@@ -9,10 +9,10 @@ How does it work?
 5. Execute every Box and change the Parameters for your purpose
 
 
-#Do you want this as an Homepage or Newsletter? Help us to cover the costs!
+# Do you want this as an Homepage or Newsletter? Help us to cover the costs!
 [Link text](https://paypal.me/pools/c/8wRmexmIMz)
 
-#Do you want to help with new features? Great fork the repo and push merge requests!
+# Do you want to help with new features? Great fork the repo and push merge requests!
 
 
 
